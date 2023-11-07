@@ -1,0 +1,10 @@
+/Users/salu/Documents/Unsta/2do Año/Programacion 2/Concesionaria-Grupo/src/main/java/com/mycompany/concesionario/persistencia/ControladoraPersistencia.java
+/Users/salu/Documents/Unsta/2do Año/Programacion 2/Concesionaria-Grupo/src/main/java/com/mycompany/concesionario/persistencia/exceptions/NonexistentEntityException.java
+/Users/salu/Documents/Unsta/2do Año/Programacion 2/Concesionaria-Grupo/src/main/java/com/mycompany/concesionario/persistencia/AutomovilJpaController.java
+/Users/salu/Documents/Unsta/2do Año/Programacion 2/Concesionaria-Grupo/src/main/java/com/mycompany/concesionario/persistencia/exceptions/PreexistingEntityException.java
+/Users/salu/Documents/Unsta/2do Año/Programacion 2/Concesionaria-Grupo/src/main/java/com/mycompany/concesionario/logica/Controladora.java
+/Users/salu/Documents/Unsta/2do Año/Programacion 2/Concesionaria-Grupo/src/main/java/com/mycompany/concesionario/Concesionario.java
+/Users/salu/Documents/Unsta/2do Año/Programacion 2/Concesionaria-Grupo/src/main/java/com/mycompany/concesionario/igu/Principal.java
+/Users/salu/Documents/Unsta/2do Año/Programacion 2/Concesionaria-Grupo/src/main/java/com/mycompany/concesionario/igu/AltaAutomovil.java
+/Users/salu/Documents/Unsta/2do Año/Programacion 2/Concesionaria-Grupo/src/main/java/com/mycompany/concesionario/logica/Automovil.java
+/Users/salu/Documents/Unsta/2do Año/Programacion 2/Concesionaria-Grupo/src/main/java/com/mycompany/concesionario/persistencia/exceptions/IllegalOrphanException.java
